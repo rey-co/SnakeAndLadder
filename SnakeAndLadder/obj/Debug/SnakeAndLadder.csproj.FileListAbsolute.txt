@@ -1,0 +1,6 @@
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.exe.config
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\bin\Debug\SnakeAndLadder.pdb
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.csprojResolveAssemblyReference.cache
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.exe
+c:\users\reynaldinho\documents\visual studio 2015\Projects\SnakeAndLadder\SnakeAndLadder\obj\Debug\SnakeAndLadder.pdb
